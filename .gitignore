@@ -1,0 +1,28 @@
+# ADNI/private/raw data
+Data/ADNIMERGE2/
+Data/*.csv
+Data/*.rda
+Data/*.RData
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large model files
+*.pkl
+*.joblib
+*.h5
+*.keras
+
+# Temporary files
+*.tmp
+*.log

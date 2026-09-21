@@ -1,0 +1,4 @@
+Model_1,Model_2,Spearman_Rank_Correlation
+XGBoost,Random Forest,0.95
+XGBoost,EBM,0.8666666666666667
+Random Forest,EBM,0.9166666666666666

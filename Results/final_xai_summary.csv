@@ -1,0 +1,9 @@
+Analysis,Value
+XGBoost vs Random Forest rank correlation,0.95
+XGBoost vs EBM rank correlation,0.8667
+Random Forest vs EBM rank correlation,0.9167
+Top-3 all-model Jaccard,1.0
+Top-5 all-model Jaccard,1.0
+XGBoost within-fold rank stability,0.9417
+Random Forest within-fold rank stability,0.98
+EBM within-fold rank stability,0.8883
